@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @1Omon
-- 👀 I’m interested in programming, ethical hacking, web development and creating malwares
-- 🌱 I’m currently learning programming, ethical hacking, web development
-💞️ I’m looking to collaborate on any web development project using html, css, vue, javascript or react
+- 👋 Hey there, I’m @1Omon
+- 👀 I’m interested in animations and systems development.
+- 🌱 I’m currently learning java, python,c++, visual basic,native mobile development, algorithms design, product design, ethical hacking, web development
+💞️ I’m looking to collaborate on any web development  project using html, css, vue, javascript, node+express.js, sql, mogodb
 - 📫 How to reach me... send me a dm on 1serwise@gmail.com
 
 <!---

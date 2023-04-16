@@ -1,7 +1,5 @@
 - 👋 Hey there, I’m 1Omon
-- 👀 I’m interested in animations and systems development.
-- 🌱 I’m currently working on my systems development skills
-💞️ I’m busy working on personal stuffs and other organizational projects atm so may not be available for collaborations.
+- 👀 I’m interested in anything related to systems
 - 📫 How to reach me... send me a dm on 1serwise@gmail.com with a reference of "FROM GITHUB"
 
 <!---

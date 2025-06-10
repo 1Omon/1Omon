@@ -91,19 +91,3 @@ const developer = {
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1serwise@gmail.com)
 
 </div>
-
----
-
-## 💖 Fund My Startup
-
-<div align="center">
-  
-[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/1Omon)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Don't%20forget%20to%20⭐%20my%20repositories&descAlignY=50&descAlign=center" />
-</div>

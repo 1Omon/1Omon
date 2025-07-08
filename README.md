@@ -13,7 +13,7 @@ const developer = {
     name: "Solomon",
     location: "Accra, Ghana",
     role: "Rank B Engineer @ XCUXION",
-    code: ["JavaScript", "Python", "TypeScript", "C++", "Java"],
+    code: ["JavaScript", "Python", "TypeScript", "C++", "Java", "Solidity"],
     technologies: {
         frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS"],
         backend: ["Node.js", "Express", "NestJS", "FastAPI"],

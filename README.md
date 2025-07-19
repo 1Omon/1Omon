@@ -16,13 +16,13 @@ const developer = {
     code: ["JavaScript", "Python", "TypeScript", "C++", "Java", "Solidity"],
     technologies: {
         frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "NestJS", "FastAPI"],
+        backend: ["Node.js", "Express", "NestJS", "FastAPI", "Ethereum"],
         databases: ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
-        cloud: ["Vercel", "Docker", "Kubernetes"],
-        tools: ["Git", "Figma", "VS Code", "Canva", "Autopsy", "Splunk", "Wireshark"]
+        cloud: ["Vercel", "Docker", "Kubernetes", "AWS"],
+        tools: ["Git", "Figma", "Jira", "Canva", "Autopsy", "Splunk", "Wireshark"]
     },
     currentFocus: "Researching on the security of AI systems",
-    funFact: "I'm building some interesting stuff"
+    funFact: "I'm building the next biggest tech organization from Ghana"
 };
 ```
 
